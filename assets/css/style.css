@@ -1,0 +1,17 @@
+.swi-connected {
+    color: #0F0;
+}
+
+.swi-not-connected {
+    color: #F00;
+}
+
+.swi-connections {
+    font-weight: 600;
+}
+
+#swi-link {
+    display: none;
+    font-size: 0;
+    visibility: hidden;
+}
